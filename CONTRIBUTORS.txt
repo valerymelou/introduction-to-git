@@ -4,20 +4,13 @@ Aristide WAFO
 Emmanuel FOMEKONG
 Winnie MEUDJE
 Dickens TCHAWA
-<<<<<<< HEAD
-<<<<<<< HEAD
 Mauranne AKAM
-=======
 Brice NANYANG
->>>>>>> 62dd0cd337e221a6b9a23c16afb223e4e371bfbf
-=======
 Boyame Yvanne
 Rabia NGOUYAMSA
-Brice NANYANG
 Yannick TIENDJEU
 Morgane ANGO
 Rick DJOMOU
 Alan NGUEUTCHOUA
 Vanessa MASSEHE
 Joyce YTEMBE
->>>>>>> cfcec748e24ca300820c5f944d891a23d0d6766c
