@@ -1,5 +1,15 @@
 Valery MELOU
 Jordan BELOM
 Aristide WAFO
+Emmanuel FOMEKONG
+Winnie MEUDJE
 Dickens TCHAWA
+<<<<<<< HEAD
 Boyame Yvanne
+=======
+Rick DJOMOU
+Alan NGUEUTCHOUA
+Vanessa MASSEHE
+Brice NANYANG
+Joyce YTEMBE
+>>>>>>> 945539348c17de94463505f88a6f290a24cc9dd8
